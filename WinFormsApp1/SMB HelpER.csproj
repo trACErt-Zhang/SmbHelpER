@@ -10,7 +10,7 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <AssemblyName>SMB HelpER</AssemblyName>
     <RootNamespace>SMB HelpER</RootNamespace>
-    <ApplicationIcon>ICON1.ico</ApplicationIcon>
+    <ApplicationIcon>new.ico</ApplicationIcon>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="ICON1.ico" />
+    <Content Include="new.ico" />
   </ItemGroup>
 
   <ItemGroup>
