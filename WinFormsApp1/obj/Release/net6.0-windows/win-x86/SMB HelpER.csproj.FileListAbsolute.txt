@@ -1,0 +1,20 @@
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\win-x86\SMB HelpER.exe
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\win-x86\SMB HelpER.deps.json
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\win-x86\SMB HelpER.runtimeconfig.json
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\win-x86\SMB HelpER.dll
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\win-x86\SMB HelpER.pdb
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\win-x86\System.Management.dll
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\SMB HelpER.csproj.AssemblyReference.cache
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\WinFormsApp1.Form1.resources
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\SMB HelpER.Resource1.resources
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\SMB HelpER.csproj.GenerateResource.cache
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\SMB HelpER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\SMB HelpER.AssemblyInfoInputs.cache
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\SMB HelpER.AssemblyInfo.cs
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\SMB HelpER.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\SMB HelpER.csproj.CopyComplete
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\SMB HelpER.dll
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\refint\SMB HelpER.dll
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\SMB HelpER.pdb
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\SMB HelpER.genruntimeconfig.cache
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Release\net6.0-windows\win-x86\ref\SMB HelpER.dll

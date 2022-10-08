@@ -1,0 +1,2 @@
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\win-x86\SMB HelpER.pdb
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Release\net6.0-windows\publish\win-x86\SMB HelpER.exe

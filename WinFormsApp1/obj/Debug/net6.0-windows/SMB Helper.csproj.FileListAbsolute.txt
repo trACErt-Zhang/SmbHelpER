@@ -1,0 +1,21 @@
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SMB HelpER.exe
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SMB HelpER.deps.json
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SMB HelpER.runtimeconfig.json
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SMB HelpER.dll
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\SMB HelpER.pdb
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SMB Helper.csproj.AssemblyReference.cache
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SMB Helper.csproj.GenerateResource.cache
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SMB Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SMB Helper.AssemblyInfoInputs.cache
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SMB Helper.AssemblyInfo.cs
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SMB Helper.csproj.CoreCompileInputs.cache
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SMB Helper.csproj.CopyComplete
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SMB HelpER.dll
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\SMB HelpER.dll
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SMB HelpER.pdb
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SMB Helper.genruntimeconfig.cache
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\SMB HelpER.dll
+C:\Users\Z\Desktop\SMB HelpER\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\SMB HelpER.Resource1.resources
